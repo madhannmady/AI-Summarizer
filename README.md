@@ -7,7 +7,8 @@
 
 4.Almost all the references and ideas are taken from Adrian Hajdin,Thanks to JavaScript Mastery.
 
-![jsmas](https://github.com/madhannmady/AI-Summarizer/assets/123820592/4d369a2a-d7e3-4297-9b56-818aa751e4d1)
+![jsmas](https://github.com/madhannmady/AI-Summarizer/assets/123820592/09f56d34-3351-44f1-970f-b5594c220eb1)
+
 
 
 # Check out the live Demo
